@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ismaelia
+- 👀 I’m interested in ... coding, philosphy, cooking.
+- 🌱 I’m currently learning ... Python, HTML, CSS.
+- 💞️ I’m looking to collaborate on ... Discord, and Github.
+- 📫 How to reach me ... 0695#5960
